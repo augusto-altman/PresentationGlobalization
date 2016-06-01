@@ -1,7 +1,7 @@
-# PresentationIntelExperience
-A brief presentation about our experience working at Intel Corporation. Authors: Augusto Altman Quaranta, Juan Cruz Pressacco and Maria Belen Ramondelli
+# PresentationGlobalization
+A brief presentation about globalization
 
-## Title: Nuestra experiencia profesional.
+## Title: Globalizacion.
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
 ## View slides locally
