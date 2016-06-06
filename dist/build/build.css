@@ -194,6 +194,9 @@ pre[class*="language-"] {
 .pasantes {
   background-image: url("../images/pasantes.jpg");
 }
+.porqueyo {
+  background-image: url("../images/porqueyo.jpg");
+}
 .gif {
   background-size: contain;
   background-position: center;
@@ -222,4 +225,7 @@ pre[class*="language-"] {
 }
 .gif--aprender {
   background-image: url("../images/gif/aprender.gif");
+}
+.gif--omgcw {
+  background-image: url("../images/gif/omgcw.gif");
 }
