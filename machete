@@ -1,0 +1,120 @@
+section(data-bespoke-backdrop='porqueyo')
+  h2 ¿Qué hago yo aca?
+  ------
+  Contar historia
+  Le plateo la pregunta a mi vieja
+  Nuestro mundo
+  Internet manda
+
+section(class='gif gif--omgcw')
+
+section(class='gif gif--bump')
+  h2 Internet
+  h3 Un mundo sin fronteras
+  ------
+  El centro de esto es internet
+  Globalizacion debilita el concepto de fronteras
+  Internet no tiene fronteras
+  Es natural la relacion
+  La moneda del mundo dolar
+  El idioma del mundo ingles
+
+section(data-bespoke-backdrop='remote-working')
+  h1 Trabajo remoto
+  ------
+  Gente en cualquier parte del mundo busca empleados
+  Gente en cualquier parte del mundo busca trabajo
+  Internet los comunica y la relacion surge
+  Diferencia con trabajar en una multinacional (donde tambien hay gente de todo el mundo) es buscar, encontrar y trbajar trabajo en un mundo sin fronteras
+
+section(class='gif gif--no-pants')
+  h2 Comodidad
+  h3 Nunca "vas" al trabajo
+  ------
+  Lo unico que necesitas es una computadora y conexion a internet
+  No hay horarios
+  No hay oficinas
+  Compañeros remotos
+  Reuniones por Skype, Hanghouts, etc
+  Comunicacion por mail, chat
+
+section
+  h2 Movilidad
+  h3 Trabajar desde cualquier parte del mundo
+  ------
+  No hay fronteras, no estas obligado a vivir en un pais para trabajar
+  Te llevas al trabajo con vos, lo unico que necesitas es internet
+  https://nomadlist.com/
+
+section
+  h2 Oportunidades
+  h3 La oferta de trabajo es muy amplia
+  ------
+  No estas limitado a la oferta de tu ciudad/pcia/pais
+  Podes estudiar y llevar a cabo profesiones que aca te cagarias de hambre
+  Hacer contactos internacionales
+
+section(class='gif gif--money-fight')
+  h2 Muuuuucha plata
+  h3 Sueldos internacionales en dolares
+  ------
+  Dar ejemplos
+  La moneda es el dolar siempre
+  Los sueldos son mas altos
+
+section
+  h2 Solo aplica a ciertas profesiones
+  ul
+    li Trabajo creativo o intelectual
+    li Trabajo calificado
+    li Trabajo cuyo producto se distribuye por internet
+  ------
+  Explicar vision de creativo desde ingenieria
+  Calificado porque lo que hace esta metodologia de trabajo es juntar gente experta con gente con plata que necesita gente experta y no encuentra
+
+section
+  h2 Ejemplos de trabajo remoto
+  ul
+    li Desarrollo de software
+    li Diseño grafico
+    li Educación
+
+section
+  h2 ¿Cómo buscar trabajo remoto?
+  h3 Por internet :P
+  ------
+  Mostrar RemoteOk, algunos trabajos, mostrar sueldos
+  Mostrar TopTal, contar el proceso de entrevistas
+
+section
+  h2 TODO: ESTADISTICAS
+  ------
+  Trabajo remoto es una tendencia en aumento
+    Tiene sentido esta tendencia porque junta a gente experta con gente con plata
+    La gente experta escasea
+  Trabajo se va a ir automatizando
+    Solo trabajo intelectual o creativo va a terminar sobreviviendo
+
+section
+  h1 Educación remota
+  ------
+  Gente en cualquier parte del mundo enseña
+  Gente en cualquier parte del mundo aprende
+  Internet los comunica y la relacion surge
+  Esta centrado en el aprendizaje y el conocimiento mas que en diplomas y certificados
+  Profesores estan centrado en hacerse conocidos
+  Almunos en aprender y generar contactos: por ejemplo emprender proyectos de a varios, foros de discusion, chats
+
+section
+  h2 Modalidad de enseñanza
+  ul
+    li Cursos cortos, universitarios
+    li Nivel internacional
+    li No presencial, sin horarios
+    li A traves de videos
+    li Material digital
+    li Evaluaciones digitales
+    li La mayoría gratuitos
+
+section
+  TODO: Yapa: visas
