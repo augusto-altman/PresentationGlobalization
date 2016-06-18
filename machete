@@ -1,42 +1,55 @@
+section(class='gif gif--internet')
+  h1 Globalización
+  ------
+  Persona informal presentacion informal
+  Presentacion corta sin teoria ni conceptos
+  Ejemplos de la realidad del mundo globalizado
+
 section(data-bespoke-backdrop='porqueyo')
-  h2 ¿Qué hago yo aca?
+  h2 Perooo, yo ¿qué tengo que ver?
   ------
   Contar historia
   Le plateo la pregunta a mi vieja
   Nuestro mundo
-  Internet manda
 
 section(class='gif gif--omgcw')
+  ------
+  El desafio fue pensar que les puedo contar yo de este mundo que ustedes no sepan
+  Elegi cosas que por su edad no conocen aun
+  Increiblemente no mucha gente de mi edad la maneja
 
 section(class='gif gif--bump')
   h2 Internet
   h3 Un mundo sin fronteras
   ------
-  El centro de esto es internet
+  El centro de mi presentacion es internet
   Globalizacion debilita el concepto de fronteras
   Internet no tiene fronteras
-  Es natural la relacion
-  La moneda del mundo dolar
+  Es natural la relacion. Comparten la misma naturaleza
+  El internet empuja la gloablizacion porque conecta personas e ideas de una punta del mundo con otra punta del mundo
   El idioma del mundo ingles
 
 section(data-bespoke-backdrop='remote-working')
   h1 Trabajo remoto
   ------
+  No es algo nuevo pero es cada vez mas frecuente gracias a la tecnologia de comiunicacion
   Gente en cualquier parte del mundo busca empleados
   Gente en cualquier parte del mundo busca trabajo
   Internet los comunica y la relacion surge
-  Diferencia con trabajar en una multinacional (donde tambien hay gente de todo el mundo) es buscar, encontrar y trbajar trabajo en un mundo sin fronteras
+  Ya no se busca trabajo tan espcializado
+  Diferencia con trabajar en una multinacional (donde tambien hay gente de todo el mundo) es buscar, encontrar y trabajar trabajo en un mundo sin fronteras
 
 section(class='gif gif--no-pants')
   h2 Comodidad
   h3 Nunca "vas" al trabajo
   ------
   Lo unico que necesitas es una computadora y conexion a internet
-  No hay horarios
   No hay oficinas
+  Tema horarios, muchas opciones no son horario fijo y son driveadas por objetivos
   Compañeros remotos
   Reuniones por Skype, Hanghouts, etc
   Comunicacion por mail, chat
+  Plantear el tema del ahorro de tiempos
 
 section
   h2 Movilidad
@@ -86,14 +99,19 @@ section
   Mostrar RemoteOk, algunos trabajos, mostrar sueldos
   Mostrar TopTal, contar el proceso de entrevistas
 
-section
-  h2 TODO: ESTADISTICAS
+section(class='gif gif--surprised')
+  h2 Para el 2020, el 50% del trabajo será remoto
+  h3 London Business School
   ------
+  London Business School
+    Tomo datos de varias empresas durante varios años sobre este tema
+    Pregunto sobre la tendencia de trabajo remoto
   Trabajo remoto es una tendencia en aumento
     Tiene sentido esta tendencia porque junta a gente experta con gente con plata
     La gente experta escasea
   Trabajo se va a ir automatizando
     Solo trabajo intelectual o creativo va a terminar sobreviviendo
+
 
 section
   h1 Educación remota
@@ -106,15 +124,40 @@ section
   Almunos en aprender y generar contactos: por ejemplo emprender proyectos de a varios, foros de discusion, chats
 
 section
-  h2 Modalidad de enseñanza
-  ul
-    li Cursos cortos, universitarios
-    li Nivel internacional
-    li No presencial, sin horarios
-    li A traves de videos
-    li Material digital
-    li Evaluaciones digitales
-    li La mayoría gratuitos
+  h2 Cursos sobre temas muy especificos
+  h3 Acotados y cortos
+  ------
+  Se enseñan cosas muy especificas acotadas
+  Cursos cortos, entre 1 y 6 meses en general
+  Le sacan todo lo que no sea relevante al tema
+  Te dejan profundizar con una seguidilla de cursos
+
+section(data-bespoke-backdrop='yoda')
+  h2 Nivel internacional
+  h3 Referentes en cada campo
+  ------
+  Profesionales de la industria, dar ejemplos
+  Profesores de grandes universidades, dar ejemplos
+
+section(data-bespoke-backdrop='ghost')
+  h2 No presencial
+  h3 No hay horarios
+  ------
+  Explicar que es "no presencial"
+  Comunidades de alumnos (foros, chats)
+  Enganchar con la proxima seccion, solo puede ser no presencial por material digital y evaluaciones digitales
 
 section
-  TODO: Yapa: visas
+  h2 Material digital
+  h3 Videos, libros digitalizados, presentaciones, wikis
+
+section
+  h2 Evaluaciones digitales
+
+section
+  h2 La mayoria gratuitos
+  ------
+  Hay una gran cantidad de cursos gratuitos
+  Material gratuito
+  Conocimiento gratuito
+  Si queres que te emitan un certificado tenes que pagar en algunos casos
