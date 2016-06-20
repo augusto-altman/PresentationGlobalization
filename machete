@@ -161,3 +161,62 @@ section
   Material gratuito
   Conocimiento gratuito
   Si queres que te emitan un certificado tenes que pagar en algunos casos
+
+section
+  h1 Bitcoin
+  ------
+  No se mucho del tema, es basico lo que presento
+  Es "la evolucion del dinero". Analogia con mail y correo
+  Tiene alrededor de 600k de usuarios en el mundo y esta creciendo
+  Es un acuerdo voluntario basado en la confianza como unidad de cambio
+
+section
+  h2 Es una moneda virtual y digital
+  h3 Todas las monedas son virtuales
+  ------
+  Mostrar como todas las monedas son virutales. No se basan mas en oro
+  Es digital porque no es tangible
+
+section
+  h2 Es descentralizada
+  h3 No tiene intermediarios
+  ------
+  Los pagos son siempre p2p. Como pagar en efectivo
+  Son irrastreables
+  No se depende de un banco que se ponga en el medio
+  No esta regulada por ninguna entidad
+
+section
+  h2 Es deflacionaria
+  h3 El límite es de 21 Millones
+  ------
+  Como no hay bancos intermediarios no hay nadie que pueda emitir bitcoins
+  Explicar que los bitcoins se generan con un algoritmo que hace cada vez mas dificil generar el proximo
+  Mineria de bitcoins
+  El limite esta cerca de 21 Millones
+  Es transparente. Todo el mundo sabe cuantos bitcoins hay
+
+section
+  h2 Es open source
+  h3 Todo el software que hay atras es abierto
+  ------
+  El software para minar, encriptar, y las transacciones es de codigo abierto
+  Cualquiera lo puede ver para verificar que este bien hecho y que no haya cosas raras
+  El software de codigo abierto tiende a evolucionar mucho mas rapido y mejor
+  Hay muchas mas gente viendo que la cosa vaya bien
+
+section
+  h2 Es segura
+  ------
+  No se puede falsificar
+  No se puede crear o multiplicar
+  Un tercero no puede pagar con dinero mio
+  Las monedas actuales no estan pensadas para internet
+
+section(data-bespoke-backdrop='ned-flanders-card')
+  h2 No es la única moneda digital
+  h3 Litecoin, Terracoin, Novacoin
+  ------
+  Es algo muy bueno porque incluye mejoras
+  Estan basadas en el codigo de bitcoin (forks)
+  Actualmente ninguna incluye algo disrruptivo, bitcoin sigue siendo la primera y mejor opcion
